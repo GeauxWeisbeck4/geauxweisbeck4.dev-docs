@@ -53,6 +53,7 @@ export const SIDEBAR: Sidebar = {
       { text: 'GeauxWeisbeck4.dev', link: 'en/geauxweisbeck4-dev' },
       { text: 'Tar Heel Dev Studio', link: 'en/tar-heel-dev-studio' },
       { text: 'Deno', link: 'en/deno' },
+      { text: 'Final Advice', link: 'en/final-advice' },
     ],
     'Other Projects': [{ text: 'Page 4', link: 'en/other-projects' }],
   },
