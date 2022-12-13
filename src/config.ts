@@ -55,6 +55,6 @@ export const SIDEBAR: Sidebar = {
       { text: 'Deno', link: 'en/deno' },
       { text: 'Final Advice', link: 'en/final-advice' },
     ],
-    'Other Projects': [{ text: 'Page 4', link: 'en/other-projects' }],
+    'Other Projects': [{ text: 'Other Projects', link: 'en/other-projects' }],
   },
 };

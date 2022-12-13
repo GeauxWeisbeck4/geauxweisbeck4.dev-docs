@@ -1,10 +1,10 @@
 ---
-title: Tar Heel Dev Studio
-description: All about my digital agency
+title: Final Advice
+description: My parting words for you to take down the road of struggleville USA
 layout: ../../layouts/MainLayout.astro
 ---
 
-his is a fully-featured page, written in Markdown!
+This is a fully-featured page, written in Markdown!
 
 ## Section A
 

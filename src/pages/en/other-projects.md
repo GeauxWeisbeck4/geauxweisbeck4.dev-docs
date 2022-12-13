@@ -1,6 +1,6 @@
 ---
-title: Deno
-description: Lorem ipsum dolor sit amet - 3
+title: Other Projects
+description: Learn more about my less important projects
 layout: ../../layouts/MainLayout.astro
 ---
 
