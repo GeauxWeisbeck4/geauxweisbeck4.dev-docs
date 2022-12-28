@@ -8,7 +8,7 @@ I've found in life that the most valuable lessons are the ones shared by others 
 
 ## Get Started
 
-To edit my story and make it your story, the easiest way is to just hit up the Stackblitz link below:
+To edit my story and make it your story, just hit up the Stackblitz link below:
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/geauxweisbeck4-dev-docs-fxm7hf)
 

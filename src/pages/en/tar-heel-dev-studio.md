@@ -4,34 +4,20 @@ description: All about my digital agency
 layout: ../../layouts/MainLayout.astro
 ---
 
-his is a fully-featured page, written in Markdown!
 
-## Section A
+## Tar Heel Dev Studio - Version 1.0.0
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+I won't go into too much detail, but the very first rendititon of this website was quite beautiful I thought. **Tar Heel Dev Studio 1.0.0** was unique - it didn't have like any white space because I used hero patterns all in the background instead of white space, which I personally liked. I don't know if others liked it so much. My old pal Lazy.lad didn't seem to like it, but most other people did like it - hey you can't please everyone!
 
-## Section B
+## Tar Heel Dev Studio - Version 1.0.1
 
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
+This version was O.K., but it wasn't my favorite. I used a template off of CloudCannon CMS so I could get my website implemented quickly and I could start marketing as soon as possible. Big mistake - well sorta. My visits went up, but people didn't last on the page for a minute. It was a good looking website, but kinda boring if you ask me. I do like the design of it but I think I just lacked effort while creating content, design, etc. You gotta do your own websites yourself when your a web developer. That brings us to 2.0!
 
-## Section C
+## Tar Heel Dev Studio - Version 2.0.0
 
-```markdown
----
-title: Markdown Page!
-lang: en
-layout: ~/layouts/MainLayout.astro
----
+Herre we are at Tar Heel Dev Studio Version 2.0.0. I am currently working on this as we speak, but I will briefly update you on the progress. 
 
-# Markdown example
+### Currently finishing up Tar Heel Dev UI
 
-This is a fully-featured page, written in Markdown!
+Yes I am! It is my first full design system and I am excited about publishing it here shortly today! Yes I said today!
 
-## Section A
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
-
-## Section B
-
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
-```
